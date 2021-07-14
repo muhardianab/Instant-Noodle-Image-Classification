@@ -1,0 +1,62 @@
+<annotation>
+	<folder>dataset-image-withxml-2</folder>
+	<filename>image (58).jpg</filename>
+	<path>C:\Users\Muhammad Ardian A B\Documents\Python File\Candidate-test-berkat\dataset-image-withxml-2\image (58).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sedaap spicy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>391</ymin>
+			<xmax>985</xmax>
+			<ymax>1586</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sedaap sambal goreng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1157</xmin>
+			<ymin>375</ymin>
+			<xmax>1930</xmax>
+			<ymax>1475</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lemonilo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1152</xmin>
+			<ymin>1691</ymin>
+			<xmax>2046</xmax>
+			<ymax>2853</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sedaap goreng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>1741</ymin>
+			<xmax>1135</xmax>
+			<ymax>2776</ymax>
+		</bndbox>
+	</object>
+</annotation>
